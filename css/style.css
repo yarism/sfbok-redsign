@@ -260,7 +260,10 @@
   margin-top: 10px;
 }
 .navbar-inverse .brand {
-  color: #FADC00;
+  color: rgb(216, 190, 0);
+}
+.carousel-control {
+  z-index: 9;
 }
 /* Custom responsive
     -------------------------------------------------- */
