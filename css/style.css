@@ -315,19 +315,24 @@
 
 }
 /*Regular style*/
-.item { 
+#container {
+  margin: 100px 0px 0px 20px;
+}
+#container .item { 
   width: 200px; 
   margin-bottom:20px;
+  background-color:rgb(245, 245, 245);
+  padding:10px;
 }
-.item.w2 {
+#container .item.w2 {
  width: 400px; 
  background-color:#eee; 
  margin-bottom:20px;
 }
-.item h3 {
+#container .item h3 {
   font-size:1rem;
   line-height:20px;
 }
-.item img {
+#container .item img {
   width:100%;
 }
