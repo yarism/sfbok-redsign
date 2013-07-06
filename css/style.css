@@ -319,13 +319,13 @@
   margin: 100px 0px 0px 20px;
 }
 #container .item { 
-  width: 200px; 
+  width: 220px; 
   margin-bottom:20px;
   background-color:rgb(245, 245, 245);
   padding:10px;
 }
 #container .item.w2 {
- width: 400px; 
+ width: 440px; 
  background-color:#eee; 
  margin-bottom:20px;
 }
